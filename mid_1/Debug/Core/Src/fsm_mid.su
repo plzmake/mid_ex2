@@ -1,0 +1,4 @@
+fsm_mid.c:26:6:display7SEG	16	static
+fsm_mid.c:79:6:isResetNor	8	static
+fsm_mid.c:94:6:isIncNor	8	static
+fsm_mid.c:110:6:isDecNor	8	static
